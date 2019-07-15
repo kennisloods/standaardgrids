@@ -1,5 +1,5 @@
 # standaardgrids
-De standaardgrids bestaan uit een regelmatige geografisch gerefereerde rasterindelingen van het (Rotterdamse) gebied. De grids maken het mogelijk om gegevens te aggregeren naar gelijkvormige gebieden van gelijke grootte, en om gegevensaggregaties onderling te vergelijken.
+De standaardgrids bestaan uit regelmatige geografisch gerefereerde rasterindelingen van het (Rotterdamse) gebied. De grids maken het mogelijk om gegevens te aggregeren naar gelijkvormige gebieden van gelijke grootte, en om gegevensaggregaties onderling te vergelijken.
 
 Zie [metadatacatalogus](https://datarotterdam.dataplatform.nl/dataset/standaardgrids) voor meer informatie.
 
